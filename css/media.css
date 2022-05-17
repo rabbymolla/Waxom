@@ -1,0 +1,402 @@
+@media(min-width:1200px) and (max-width:1399px) {
+    .bannar-content p {
+        padding: 0;
+    }
+
+    .video-part-content p {
+        padding: 0;
+    }
+
+    .protfolio-text span {
+        font-size: 15px;
+    }
+}
+
+@media(min-width:992px) and (max-width:1199px) {
+    .navbar-expand-lg .navbar-nav .nav-item {
+        padding: 0 10px;
+    }
+
+    .bannar-content h2 {
+        font-size: 44px;
+    }
+
+    .bannar-content p {
+        padding: 0;
+    }
+
+    .slider-buttom-text h1 {
+        font-size: 23px;
+    }
+
+    .slider-buttom-text p {
+        font-size: 17px;
+    }
+
+    .video-part-content p {
+        padding: 0;
+    }
+
+    .protfolio-items p {
+        margin-right: 0;
+    }
+
+    .protfolio-text span {
+        font-size: 13px;
+    }
+
+    .protfolio-text i {
+        margin-right: 2px;
+    }
+
+    .recent-text h4 {
+        font-size: 17px;
+    }
+}
+
+@media(min-width:768px) and (max-width:991px) {
+    .bannar-content p {
+        padding: 0;
+    }
+
+    .bannar-content h1 {
+        font-size: 30px;
+    }
+
+    .bannar-content h2 {
+        font-size: 34px;
+    }
+
+    .navbar {
+        padding-top: 10px;
+
+    }
+
+    .navbar-nav {
+        background: linear-gradient(to right, #211b19, #4e3427);
+        margin-top: 10px;
+        text-align: center;
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+
+    .navbar-expand-lg .navbar-nav .nav-item {
+        padding: 0px;
+    }
+
+    .slider-heder p {
+        padding: 0;
+    }
+
+    .slider-buttom-text h1 {
+        font-size: 23px;
+    }
+
+    .slider-buttom-text p {
+        font-size: 17px;
+
+    }
+
+    .video-part-content p {
+        font-size: 15px;
+        margin-top: 10px;
+        padding: 0;
+    }
+
+    .video-part-content h1 {
+        padding-top: 10px;
+    }
+
+    .counter-up-items {
+        margin-top: 30px;
+    }
+
+    .background-logo-overlay-img img {
+        width: 150px;
+        height: 100%;
+    }
+
+    .footer-text-tow p {
+        padding-bottom: 60px;
+    }
+
+    .copy-right-text {
+        text-align: center;
+    }
+
+    .copy-right-two {
+        text-align: center;
+        margin-top: 10px;
+    }
+}
+
+@media(min-width:576px) and (max-width:767px) {
+    .bannar-content h1 {
+        font-size: 22px;
+    }
+
+    .bannar-content h2 {
+        font-size: 25px;
+    }
+
+    .bannar-content p {
+        padding: 0;
+    }
+
+    .text-center {
+        margin-bottom: 37px;
+    }
+
+    .navbar {
+        padding-top: 10px;
+
+    }
+
+    .navbar-nav {
+        background: linear-gradient(to right, #211b19, #4e3427);
+        margin-top: 10px;
+        text-align: center;
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+
+    .navbar-expand-lg .navbar-nav .nav-item {
+        padding: 0px;
+    }
+
+    .slider-heder p {
+        padding: 0;
+    }
+
+    .slider-buttom-button button {
+        padding: 20px 21px;
+    }
+
+    .slider-buttom-text h1 {
+        font-size: 17px;
+    }
+
+    .slider-buttom-text p {
+        font-size: 13px;
+    }
+
+    .slider-buttom-text span {
+        font-size: 20px;
+    }
+
+    #services {
+        padding-bottom: 0px;
+    }
+
+    .latest-button-part button {
+        padding: 8px 11px;
+    }
+
+    .latest-content h6 {
+        font-size: 16px;
+    }
+
+    .video-part-content p {
+        display: none;
+    }
+
+    .video-part-content h1 {
+        font-size: 22px;
+        padding-top: 15px;
+    }
+
+    .protfolio-items h1 {
+        text-align: center;
+    }
+
+    .protfolio-items p {
+        margin-right: 0;
+        text-align: center;
+    }
+
+    .protfolio-text {
+        padding-left: 0;
+    }
+
+    .protfolio-text i {
+        margin-right: 2px;
+    }
+
+    .protfolio-text span {
+        font-size: 14px;
+    }
+
+    .counter-up-text h1 {
+        padding-top: 0;
+        margin-bottom: 20px;
+    }
+
+    .background-logo-overlay-img img {
+        width: 100px;
+        height: 100%;
+
+    }
+
+    .footer-heder h5 {
+        text-align: center;
+    }
+
+    .footer-logo {
+        text-align: center;
+    }
+
+    .copy-right-text {
+        text-align: center;
+    }
+
+    .copy-right-two {
+        text-align: center;
+    }
+}
+
+@media(max-width: 575.99px) {
+    .bannar-content h1 {
+        font-size: 15px;
+        line-height: 24px;
+    }
+
+    .bannar-content h2 {
+        font-size: 20px;
+        line-height: 24px;
+    }
+
+    .bannar-content p {
+        font-size: 13px;
+        line-height: 20px;
+        padding: 0;
+    }
+
+    .bannar-buttom button {
+        padding: 20px 23px;
+    }
+
+    #bannar {
+        padding-top: 605px;
+        padding-bottom: 0;
+
+    }
+
+    .navbar {
+        padding-top: 10px;
+
+    }
+
+    .navbar-nav {
+        background: linear-gradient(to right, #211b19, #4e3427);
+        margin-top: 10px;
+        text-align: center;
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+
+    .navbar-expand-lg .navbar-nav .nav-item {
+        padding: 0px;
+    }
+
+    .slider-heder h1 {
+        font-size: 15px;
+    }
+
+    .slider-heder p {
+        padding: 0;
+    }
+
+    .slider-buttom-button {
+        text-align: center;
+    }
+
+    .slider-buttom-text h1 {
+        text-align: center;
+        padding-bottom: 10px;
+    }
+
+    .slider-buttom-text p {
+        text-align: center;
+        padding-bottom: 10px;
+    }
+
+    .latest-button-part button {
+        padding: 8px 8px;
+        margin-bottom: 8px;
+    }
+
+    .video-part-content h1 {
+        display: none;
+    }
+
+    .video-part-content p {
+        display: none;
+    }
+
+    .protfolio-img img {
+        width: 263px;
+        height: 100%;
+    }
+
+    .protfolio-items h1 {
+        font-size: 18px;
+        padding-top: 25px;
+        text-align: center;
+    }
+
+    .protfolio-items p {
+        font-size: 13px;
+        margin-right: 0;
+        text-align: center;
+    }
+
+    .protfolio-text span {
+        font-size: 13px;
+    }
+
+    .protfolio-text {
+        padding-left: 0;
+    }
+
+    .protfolio-text i {
+        margin-right: 0;
+    }
+
+    .recent-text h4 {
+        font-size: 15px;
+    }
+
+    .background-logo-overlay-img img {
+        width: 60px;
+        height: 100%;
+    }
+
+    .footer-logo {
+        text-align: center;
+    }
+
+    .footer-logo-text p {
+        padding-right: 0;
+    }
+
+    .footer-logo-text {
+        text-align: center;
+    }
+
+    .footer-heder h5 {
+        text-align: center;
+    }
+
+    .copy-right-text {
+        text-align: center;
+    }
+
+    .copy-right-two {
+        text-align: center;
+        margin-top: 30px;
+    }
+
+    .copy-right-two p::after {
+        display: none;
+    }
+}
